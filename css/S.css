@@ -248,7 +248,7 @@ li:hover {
         font-size: 40px;
     }
     .content {
-        height: calc(100% - 200px);
+        height: 100%;
     }
     li {
         font-size: 17px;
