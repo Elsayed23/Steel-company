@@ -271,3 +271,14 @@ li:hover {
         font-size: 32.5px;
     }
 }
+@media (max-width: 330px) {
+    .paragraph {
+        font-size: 20px;
+    }
+    .para p .H {
+        font-size: 34px;
+    }
+    .MY {
+        font-size: 31.5px;
+    }
+}
