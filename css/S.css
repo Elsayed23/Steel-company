@@ -260,3 +260,14 @@ li:hover {
         display: none;
     }
 }
+@media (max-width: 365px) {
+    .paragraph {
+        font-size: 22px;
+    }
+    .para p .H {
+        font-size: 36px;
+    }
+    .MY {
+        font-size: 32.5px;
+    }
+}
